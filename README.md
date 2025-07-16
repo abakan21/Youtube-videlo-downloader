@@ -46,7 +46,7 @@ You are free to use and distribute it for personal/non-commercial purposes.
 Commercial use is not permitted.
 
 For commercial licensing or rights inquiries, please contact me at:
-📧 your-email@example.com
+📧 suvildan1999@gmail.com
 
 The author does not take any responsibility for misuse of this software, including but not limited to:
 
